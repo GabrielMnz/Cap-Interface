@@ -1,0 +1,30 @@
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\style\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.exe
+C:\Users\style\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Users\style\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\Users\style\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.dll
+C:\Users\style\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.dll
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\Users\style\source\repos\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+F:\Documentos\WS - VS2022\Interface\Interface\bin\Debug\net6.0\Interface.exe
+F:\Documentos\WS - VS2022\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+F:\Documentos\WS - VS2022\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+F:\Documentos\WS - VS2022\Interface\Interface\bin\Debug\net6.0\Interface.dll
+F:\Documentos\WS - VS2022\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.dll
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+F:\Documentos\WS - VS2022\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
